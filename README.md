@@ -8,6 +8,6 @@ Signal Convulution and filtering
 
   ->Finite Sum Approximation
   
-Even and odd Signal Functions calling
+How to decompose signals and find its even and odd parts
 
 Plot, Stem and Figure Tutorials
